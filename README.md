@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gautWamchessplayer
-- 👀 I’m interested in making magnus carlsem lose to me
+- 👀 I’m interested in making Magnus Carlsen lose to me in a chess game
 - 🌱 I’m currently learning .html
 - 💞️ I’m looking to collaborate on environment websites
-- 📫 How to reach me <top secret>
+- 📫 How to reach me is a top secret
 - 😄 Pronouns:(will be updated LATER) 
 - ⚡ Fun fact: my elo is 1057
 
