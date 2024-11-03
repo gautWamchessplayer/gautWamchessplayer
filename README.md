@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on environment websites
 - 📫 How to reach me is a top secret
 - 😄 Pronouns:(will be updated LATER) 
-- ⚡ Fun fact: my elo is 1057
+- ⚡ Fun fact: my elo is 1075
 
 <!---
 gautWamchessplayer/gautWamchessplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
